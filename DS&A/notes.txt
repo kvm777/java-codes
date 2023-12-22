@@ -1,0 +1,6 @@
+Data Structures --- a named location that can be used to store and orgsnise the data.
+Alogorithm --- collection of steps to solve a problem
+
+DataStructures --   1. stack
+                    2. Queue
+                    3. Linked List
